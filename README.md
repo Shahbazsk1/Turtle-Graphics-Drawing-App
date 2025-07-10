@@ -1,4 +1,4 @@
-# Turtle-Graphics-Drawing-App
+# Turtle-Sketch-Drawing-App
 <h2><p>This project is a Turtle Graphics Keyboard-Controlled Drawing App built using Python's turtle module. </p>
 <p>It allows the user to control a turtle (cursor) on the screen using keyboard keys to simulate drawing and navigation a basic implementation of interactive canvas control.</p></h2>
 
