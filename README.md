@@ -19,7 +19,7 @@
 
 <h4>Screen Behavior:</h4>
 <ul>
-  <li></li>screen.listen() keeps the window active to listen for key events.</li>
+  <li>screen.listen() keeps the window active to listen for key events.</li>
   <li>screen.exitonclick() allows you to close the window by clicking on it.</li>
 </ul>
 
